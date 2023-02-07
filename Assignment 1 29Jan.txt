@@ -1,0 +1,88 @@
+Answers:
+1:
+Guido van Rossum developed python programmin language.
+
+2:
+Python supports Object-oriented programming and Structured pragramming.
+
+3:
+Yes, python is case sensitive when dealing with identifiers.
+
+4:
+ .py  is the correct extension of python file.
+
+5:
+Python is an interpreted language.
+
+6:
+indentations are used to define a block of code in python. Eg-
+if(a>b):
+    print a
+else:
+    print b
+    
+7:
+# is used to give single line comments in python.
+
+8:
+import sys
+print("User Current Version:-", sys.version)
+
+this will give the function of python
+
+9:
+lambda
+
+10:
+pip = 'preferred installer program' in python.
+
+11:
+some built-in functions of python are-  max(), min(), print(), range(), etc.
+
+12:
+maximum possible length of identifier in python is = 79.
+
+13:
+Some key benifits of learning python are-
+Data science.
+Scientific and mathematical computing.
+Web development.
+System automation and administration.
+Computer graphics.
+Basic game development.
+
+14:
+Memory management in Python involves a private heap containing all Python objects and data structures. The management of this private heap is ensured internally by the Python memory manager.
+
+15:
+To install python on windows-
+Step 1: Download the Python Installer binaries.
+    > Open the official Python website in your web browser. Navigate to the Downloads tab for Windows.
+    > Choose the latest Python 3 release. In our example, we choose the latest Python 3.7.3 version.
+    > Click on the link to download Windows x86 executable installer if you are using a 32-bit installer. In case 
+      your Windows installation is a 64-bit system, then download Windows x86-64 executable installer.
+   
+Step 2: Run the Executable Installer.
+    > Once the installer is downloaded, run the Python installer.
+    > Check the Install launcher for all users check box. Further, you may check the Add Python 3.7 to path check 
+      box to include the interpreter in the execution path.
+    > Select Customize installation. Choose the optional features by checking the following check boxes:
+        - Documentation
+        - pip
+        - tcl/tk and IDLE (to install tkinter and IDLE)
+        - Python test suite (to install the standard library test suite of Python)
+        - Install the global launcher for `.py` files. This makes it easier to start Python
+        - Install for all users.
+    > Once the installation is over, you will see a Python Setup Successful window.
+
+To add Python to PATH variable in Windows -
+1. Right-clicking This PC and going to Properties.
+2. Clicking on the Advanced system settings in the menu on the left.
+3. Clicking on the Environment Variables button on the bottom right.
+4. In the System variables section, selecting the Path variable and clicking on Edit. The next screen will show   
+   all the directories that are currently a part of the PATH variable.
+5. Clicking on New and entering Python’s install directory.
+
+
+16:
+Yes indentation is required in python.
